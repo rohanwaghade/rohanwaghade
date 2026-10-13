@@ -77,6 +77,22 @@
     </td>
   </tr>
   <tr>
+    <td width="100%" colspan="2">
+      <h3>📊 Job Market Intelligence & Career Analytics Platform</h3>
+      <p>Built a job-market analytics workflow using the <strong>Adzuna API</strong> and <strong>Python</strong> to collect and clean job listings, extract in-demand skills, and apply rule-based suitability scoring. Developed a <strong>4-page Power BI dashboard</strong> covering market overview, skill intelligence, fresher opportunities, and job-level exploration to help candidates investigate hiring patterns and role requirements.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/API_Integration-2C8EBB?style=flat&logo=fastapi&logoColor=white"/>
+      </p>
+      <a href="https://github.com/rohanwaghade/Job-Market-Intelligence">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📉 HR Analytics & Employee Churn Prediction</h3>
       <p>End-to-end ML pipeline predicting employee attrition using <strong>Logistic Regression & Random Forest</strong> with <strong>85%+ accuracy</strong>. Includes EDA, feature engineering, and an interactive <strong>Power BI dashboard</strong>.</p>
