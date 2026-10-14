@@ -62,22 +62,6 @@
 <table>
   <tr>
     <td width="100%" colspan="2">
-      <h3>🚗 Uber Trips Analytics — End-to-End Data Project</h3>
-      <p>End-to-end analytics pipeline on <strong>50,000 Uber ride records</strong> across 6 cities. Cleaned and feature-engineered the raw data in <strong>Python</strong> (fare parsing, trip duration, hour-of-day and distance buckets), then built a <strong>5-page interactive Power BI dashboard</strong> covering demand patterns by hour, revenue & fare analysis, cancellation/no-show diagnostics, driver performance, and a geographic view — complete with a custom dark-themed, color-coded design system across all pages.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-      </p>
-      <a href="https://github.com/rohanwaghade/Uber_trips_Analysis">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2">
       <h3>📊 Job Market Intelligence & Career Analytics Platform</h3>
       <p>Built a job-market analytics workflow using the <strong>Adzuna API</strong> and <strong>Python</strong> to collect and clean job listings, extract in-demand skills, and apply rule-based suitability scoring. Developed a <strong>4-page Power BI dashboard</strong> covering market overview, skill intelligence, fresher opportunities, and job-level exploration to help candidates investigate hiring patterns and role requirements.</p>
       <p>
@@ -88,6 +72,22 @@
         <img src="https://img.shields.io/badge/API_Integration-2C8EBB?style=flat&logo=fastapi&logoColor=white"/>
       </p>
       <a href="https://github.com/rohanwaghade/Job-Market-Intelligence">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3>🚗 Uber Trips Analytics — End-to-End Data Project</h3>
+      <p>End-to-end analytics pipeline on <strong>50,000 Uber ride records</strong> across 6 cities. Cleaned and feature-engineered the raw data in <strong>Python</strong> (fare parsing, trip duration, hour-of-day and distance buckets), then built a <strong>5-page interactive Power BI dashboard</strong> covering demand patterns by hour, revenue & fare analysis, cancellation/no-show diagnostics, driver performance, and a geographic view — complete with a custom dark-themed, color-coded design system across all pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+      </p>
+      <a href="https://github.com/rohanwaghade/Uber_trips_Analysis">
         <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
